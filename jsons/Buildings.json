@@ -18,8 +18,7 @@
                     "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>",
 		    "[-50]% Gold cost of acquiring tiles [in all cities]",
 		    "May choose [1] additional belief(s) of any type when [founding] a religion",
-		    "Cities are razed [2] times as fast",
-		    "Units ignore terrain costs when moving into any tile with Hills"
+		    "Cities are razed [2] times as fast"
 		]
 	},
 ]
