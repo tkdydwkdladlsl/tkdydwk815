@@ -13,7 +13,10 @@
 		    "Free [Great Prophet] appears <for [Human player]>",
 		    "Free [Great Prophet] appears <for [Human player]>",
 		    "Free [Great Engineer] appears <for [Human player]>",
-		    "[+20]% Production when constructing [All] wonders [in all cities]"
+		    "[+20]% Production when constructing [All] wonders [in all cities]",
+		    "Enables embarkation for land units <starting from the [Ancient era]> <Suppress warning [*contains a conditional on a unit movement unique*]>",
+                    "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>",
+		    "[-50]% Gold cost of acquiring tiles [in all cities]"
 		]
 	},
 ]
