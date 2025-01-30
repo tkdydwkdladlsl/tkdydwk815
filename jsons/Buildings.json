@@ -18,7 +18,9 @@
                     "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>",
 		    "[-50]% Gold cost of acquiring tiles [in all cities]",
 		    "May choose [1] additional belief(s) of any type when [founding] a religion",
-		    "Cities are razed [2] times as fast"
+		    "Cities are razed [2] times as fast",
+		    "Gain [1000] [Gold] <upon founding a Religion>",
+		    "Free Technology","Free Technology"
 		]
 	},
 ]
